@@ -1,5 +1,5 @@
 -  Hi, I’m @RawanMohamed28
--  I’m computer science student.
+
 -  I’m learned c++ ,java.
 
 
