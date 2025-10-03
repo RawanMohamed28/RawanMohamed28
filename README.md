@@ -39,7 +39,7 @@ A mental health & wellness mobile application designed to help users relax, refl
 * 📓 Personal journal for thoughts & feelings
 * 📈 Analytics & insights for journals and habits and sessions
 
-**Tech:** Flutter · Dart · Firebase · SQLite · Shared Preferences · BLoC
+**Tech:** Flutter · Dart · Firebase ·  RESTful APIs
 **Repo:** (https://github.com/RawanMohamed28/Calmi_App.git)*
 
 ---
